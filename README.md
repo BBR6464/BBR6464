@@ -8,7 +8,7 @@ I’m Mohd Babar Malik, currently pursuing an M.Tech in Structures and Design at
 
 ## 🔧 **Skills & Expertise**:
 - **Programming Languages**: Python, MATLAB
-- **Simulation Tools**: ABAQUS, ANSYS, Autodesk AutoCAD-2D/3d, Autodesk Inventor, Autodest Fusion 360, CATIA V5, SolidWorks
+- **Simulation Tools**: ABAQUS, ANSYS, Autodesk AutoCAD-2D/3D, Autodesk Inventor, Autodesk Fusion 360, CATIA V5, SolidWorks
 - **Research Expertise**: Composite materials, Bio-inspired structures, Nacre composites
 - **Computational Methods**: FEM simulations, Structural Dynamics, CFD, Stress-Strain Analysis
 - **Knowledge in**: Manufacturing processes for composites, Composite assembly methods, Production environment experience.
@@ -16,21 +16,19 @@ I’m Mohd Babar Malik, currently pursuing an M.Tech in Structures and Design at
 ---
 
 ## 💼 **Projects**:
-Here are some notable projects I have worked on, focusing on the analysis of materials and structures using various computational techniques:
 
-### 🦠 **M.Tech Thesis: Nacre-Inspired Composite Structures**
-- Investigated the size effects in nacre-inspired composites using **Finite Element simulations**.
-- Analyzed the strain distribution near a central hole using **Discrete FEM**.
+### 🏔️ **Glacial Lake Area Assessment** | *Remote Sensing, GLOF Risk Analysis*
+- Conducted research on glacial lake assessment using remote sensing data.
+- Analyzed Glacial Lake Outburst Flood (GLOF) risk.
+- Project conducted under the supervision of Mr. Ajay Kumar, Assistant Professor.
 
-### 🏗️ **Minor Projects**:
-- **Analysis of 2-D I-Beam using ABAQUS**: FE analysis to determine stress distribution.
-- **Stress-Strain Analysis of Railway Track**: Analysis of railway tracks under dynamic loading.
-- **Composite Analysis**: FEM analysis of glass fiber reinforced with epoxy resin.
-- **CFD Muffler Optimization**: CFD simulation for optimizing muffler volume in light commercial vehicles.
+### 🏗️ **Sandwich Composite Development** | *Composite Manufacturing*
+- Developed a sandwich composite using randomly oriented glass fiber-epoxy, focusing on manufacturing techniques and material selection.
 
-### 🎓 **Internships**:
-- **Public Works Department (PWD)**, Laksar: Worked on structural analysis and project management.
-- **BSNL**, Ghaziabad: Gained insights into telecommunication infrastructure development.
+### 🦠 **Exploring the Bio-inspired Composites using FEA** | *Simulation, Parametric Study*
+- Studied size effects and strain distribution in nacre composites.
+- Varied hole diameter in parametric analysis.
+- Supervised by Dr. Anup S, Aerospace Engineering.
 
 ---
 
@@ -43,6 +41,19 @@ I’m aiming to leverage my skills in composite materials and FEM simulations to
 I’m continuously learning new tools and technologies to stay at the cutting edge of the industry:
 - Following a **YouTube playlist** for **Abaqus modeling** to explore static and dynamic analysis of materials.
 - Expanding my knowledge of **auto-coding and CAD tools** like AutoCAD and SolidWorks.
+
+---
+
+## 🌟 **Licenses, Certifications & Achievements**:
+- **Finite Element Analysis Convergence and Mesh Independence** - Coursera Project Network
+- **Python for Data Science** - IBM
+- **Python Course** - Udemy
+- **Introduction to Programming with MATLAB** - Vanderbilt University
+- **MATLAB Onramp** - MathWorks Training Services
+- **Wolfram Mathematica Workshop** - IIST, Department of Mathematics
+- **GATE (CE)** - IIT Kanpur (2023)
+- **GATE (ES)** - IIT Kanpur (2023)
+- **Learn Canva for Advance Graphics Design** - Udemy
 
 ---
 
