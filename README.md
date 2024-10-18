@@ -8,9 +8,10 @@ I’m Mohd Babar Malik, currently pursuing an M.Tech in Structures and Design at
 
 ## 🔧 **Skills & Expertise**:
 - **Programming Languages**: Python, MATLAB
-- **Simulation Tools**: ABAQUS, ANSYS, AutoCAD, CATIA V5, SolidWorks
+- **Simulation Tools**: ABAQUS, ANSYS, Autodesk AutoCAD-2D/3d, Autodesk Inventor, Autodest Fusion 360, CATIA V5, SolidWorks
 - **Research Expertise**: Composite materials, Bio-inspired structures, Nacre composites
 - **Computational Methods**: FEM simulations, Structural Dynamics, CFD, Stress-Strain Analysis
+- **Knowledge in**: Manufacturing processes for composites, Composite assembly methods, Production environment experience.
 
 ---
 
