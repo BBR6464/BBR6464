@@ -58,7 +58,7 @@ I’m continuously learning new tools and technologies to stay at the cutting ed
 ---
 
 ## 🌐 **Find Me Online**:
-- LinkedIn: [Mohd Babar Malik](https://www.linkedin.com/in/BBR003)
+- LinkedIn: [Mohd Babar Malik](https://www.linkedin.com/in/bbr003)
 - GitHub: [BBR6464](https://github.com/BBR6464)
 
 ---
